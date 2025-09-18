@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
         - name: nginx-con
-          image: 
+          image: rajgandhi123/css-repo:glass 
           ports:
             - containerPort: 80
               protocol: TCP
